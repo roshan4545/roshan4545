@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @roshan4545
-- 👀 I’m interested in Backend Development and to learn about the working of Cloud Applications.
-- 🌱 I’m currently learning Spring framework.
+- 👋 Hi, I’m Roshan
 - 📫 How to reach me - malipatelroshan@gmail.com
 
 <!---
